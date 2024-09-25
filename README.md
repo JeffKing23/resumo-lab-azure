@@ -6,4 +6,5 @@ As lives são ótimas. Até o momento estou amando cada aula. Já iniciando apre
 Fiquei muito empolgado com as possibilidades de se trabalhar com computação em nuvem, também já tive a oportunidade de aprender na prática sobre versionamento de código com Git e GitHub, algo que estava realmente precisando praticar.
 Participei e colaborei com o meu primeiro projeto nesse Bootcamp, que foi sensacional participar de um projeto open source no GitHub. Com a mentoria da Expert Eli ficou muito interessante participar e aprender.
 Ao fim do primeiro módulo estou muito afim de iniciar os estudos no portal Azure e começar a criar os projetos iniciais como máquinas virtuais e servidores, isso tudo seguindo a SLA.
+Muito bom esses recursos de criação de VM´S no Azure, aprendi muito também sóbre a criação e configurações corretas de uma VM.
 Agora é me preparar para emergir mais ainda nesse Bootcamp da DIO e Microsoft Azure Essentials, que está demais.
