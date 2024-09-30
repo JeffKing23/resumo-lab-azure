@@ -9,4 +9,5 @@ Ao fim do primeiro módulo estou muito afim de iniciar os estudos no portal Azur
 Muito bom esses recursos de criação de VM´S no Azure, aprendi muito também sóbre a criação e configurações corretas de uma VM.
 Muito interessante aprender a criar e administrar bloqueios e políticas no portal do Azure, aprendi muito sobre os serviços conformidades e governanças.
 O tópico sobre as ferramentas de gerenciamento e implatação do Azure foi muito bom, na prática ver como tudo é muito funcional nos da uma segurança a mais para usar o portal.
+Aprendi muito sobre as ferramentas de monitoramento no portal azure.
 Agora é me preparar para emergir mais ainda nesse Bootcamp da DIO e Microsoft Azure Essentials, que está demais.
